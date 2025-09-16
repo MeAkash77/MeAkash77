@@ -1,4 +1,4 @@
-![logo](Picsart_24-01-15_20-59-40-540.jpg)
+![logo](Picsart_24-01-16_11-44-37-309 - Copy.png)
 
 <h1 align="center">I'm Akash</h1>
 <!-- introduction -->
