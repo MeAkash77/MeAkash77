@@ -1,4 +1,4 @@
-![logo](Picsart_24-01-16_11-44-37-309 - Copy.png)
+![logo](https://github.com/MeAkash77/MeAkash77/blob/main/Picsart_24-01-16_11-44-37-309%20-%20Copy.png?raw=true)
 
 <h1 align="center">I'm Akash</h1>
 <!-- introduction -->
