@@ -25,7 +25,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshaydhoundiyal&label=Profile%20views&color=0e75b6&style=flat" alt="Akash" /> </p>
 
-- 🔭 I’m currently Working on **MERN and Java/Springboot**
+- 🔭 I’m currently Working on **Python Full Stack and Gen AI**
 
 - 🌱 I’m currently learning : **Backend Development**
 
