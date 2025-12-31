@@ -14,7 +14,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer&center=true&size=31">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer&center=true&size=31">
   </a>
 </h1>
 
