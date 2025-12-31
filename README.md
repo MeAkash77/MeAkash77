@@ -34,11 +34,10 @@
 - 📄 Know about my Experience : [Click Here](https://github.com/MeAkash77)
 
 - ⚡ Hobby : **I love to play Cricket**
-- <div align="center">
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
-
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lakshaydhoundiyal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/me-akash77/) [![Website](https://img.shields.io/badge/Website-yellow)](https://lakshaydhoundiyal.cloud)
