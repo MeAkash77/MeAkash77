@@ -1,6 +1,6 @@
 ![logo](https://github.com/MeAkash77/MeAkash77/blob/main/1706714831446.jpg?raw=true)
 
-![logo](https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif)
+![logo](<br><img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
