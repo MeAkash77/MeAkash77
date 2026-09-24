@@ -16,7 +16,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
 </div>
 
-<img align="right" alt="coding" width="410" src="https://github.com/MeAkash77/MeAkash77/blob/main/about.gif">
+<img align="right" alt="coding" width="500" src="https://github.com/MeAkash77/MeAkash77/blob/main/about.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshaydhoundiyal&label=Profile%20views&color=0e75b6&style=flat" alt="Akash" /> </p>
 
