@@ -51,9 +51,7 @@
 
 ### ✍️ Lets Code
 <p align="center">
-
-  <img alt="coding" width="410" src="https://github.com/MeAkash77/MeAkash77/blob/main/about.gif" />
-
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
 </p>
 
 ### My GitHub Activity
