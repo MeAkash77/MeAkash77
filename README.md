@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="coding" Length="500" src="https://github.com/MeAkash77/MeAkash77/blob/main/about.gif" Length="950" />
+  <img alt="coding" Length="500" width="950" src="https://github.com/MeAkash77/MeAkash77/blob/main/about.gif" />
 
 </p>
 
