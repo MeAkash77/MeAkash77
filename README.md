@@ -1,9 +1,4 @@
 <p align="center">
-  <img src="
-" />
-</p>
-
-<p align="center">
   <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
 </p>
 
