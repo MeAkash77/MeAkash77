@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://github.com/MeAkash77/MeAkash77/blob/main/about.gif" />
-</p>
-
-<p align="center">
   <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="300" alt="Coding GIF" />
 </p>
 
