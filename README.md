@@ -1,4 +1,4 @@
-<p align="center">
+<p>
 
   <img alt="coding" width="450" src="https://github.com/MeAkash77/MeAkash77/blob/main/about.gif" Length="950" />
 
