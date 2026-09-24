@@ -50,7 +50,7 @@
 ### ✍️ Lets Code
 <p align="center">
 
-  <img src="https://github.com/MeAkash77/MeAkash77/blob/main/about.gif" width="1000" />
+  <img alt="coding" width="410" src="https://github.com/MeAkash77/MeAkash77/blob/main/about.gif" />
 
 </p>
 
