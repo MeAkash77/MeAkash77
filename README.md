@@ -16,9 +16,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
 </div>
 
-<img align="right" alt="coding" width="450" src="https://github.com/MeAkash77/MeAkash77/blob/main/about.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshaydhoundiyal&label=Profile%20views&color=0e75b6&style=flat" alt="Akash" /> </p>
+<img align="right" alt="coding" Length="300" width="450" src="https://github.com/MeAkash77/MeAkash77/blob/main/about.gif">
 
 - 🔭 I’m currently Working on **Python Full Stack and Gen AI**
 
