@@ -16,7 +16,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
 </div>
 
-<img align="right" alt="coding" Length="300" width="450" src="https://github.com/MeAkash77/MeAkash77/blob/main/about.gif">
+<img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 - 🔭 I’m currently Working on **Python Full Stack and Gen AI**
 
