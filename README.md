@@ -26,7 +26,7 @@
 
 <img align="right" alt="coding" width="410" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-<p align="left"> <img src="https://github.com/MeAkash77/MeAkash77/blob/main/about.gif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshaydhoundiyal&label=Profile%20views&color=0e75b6&style=flat" alt="Akash" /> </p>
 
 - 🔭 I’m currently Working on **Python Full Stack and Gen AI**
 
