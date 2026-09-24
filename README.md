@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img alt="coding" width="500" src="https://github.com/MeAkash77/MeAkash77/blob/main/about.gif" />
+  <img alt="coding" width="450" Length="450" src="https://github.com/MeAkash77/MeAkash77/blob/main/about.gif" />
 
 </p>
 
