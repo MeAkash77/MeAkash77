@@ -48,7 +48,11 @@
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)<br/>
+<p align="center">
+
+  <img src="https://github.com/MeAkash77/MeAkash77/blob/main/about.gif" />
+
+</p>
 
 ### My GitHub Activity
 
