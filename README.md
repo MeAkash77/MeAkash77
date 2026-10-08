@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/MeAkash77/MeAkash77/blob/main/id-dashboard.svg"/>
+  <img src="https://github.com/MeAkash77/MeAkash77/blob/main/Akash_Programmer_left_FULL_VISIBLE%20(4).svg"/>
 </p>
 
 <div align="center">
