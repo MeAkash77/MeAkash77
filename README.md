@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MeAkash77/MeAkash77/c343ab5532a00e30f131aef1e3d8b1dc7417432c/hero.svg"/>
+  <img src="https://github.com/MeAkash77/MeAkash77/blob/main/id-dashboard.svg"/>
 </p>
 
 <div align="center">
