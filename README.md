@@ -10,6 +10,10 @@
   <img src="https://github.com/MeAkash77/MeAkash77/blob/main/Akash_Programmer_left_FULL_VISIBLE%20(4).svg"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/MeAkash77/MeAkash77/blob/main/id-dashboard.svg"/>
+</p>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="1000">
 </div>
