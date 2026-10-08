@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="https://raw.githubusercontent.com/MeAkash77/MeAkash77/f59a0e1157d8f7b0cfe34f86decce97c7cb75d2d/hero.svg" />
+  <img src="./hero.svg?v=1" alt="Hi, I'm Megha Mittal — Frontend Developer" width="100%"/>
 </p>
 
 <div align="center">
