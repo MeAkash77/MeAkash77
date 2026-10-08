@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/MeAkash77/MeAkash77/blob/main/id-dashboard.svg"/>
+  <img src="https://github.com/MeAkash77/MeAkash77/blob/main/merged_animated_svg_hacker_animation_even_bigger.svg"/>
 </p>
 
 <div align="center">
