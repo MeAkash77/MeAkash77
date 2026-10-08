@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="https://github.com/MeAkash77/MeAkash77/blob/main/hero.svg" />
+  <img alt="https://raw.githubusercontent.com/MeAkash77/MeAkash77/f59a0e1157d8f7b0cfe34f86decce97c7cb75d2d/hero.svg" />
 </p>
 
 <div align="center">
